@@ -1,0 +1,74 @@
+body {
+	font-family: sans-serif;
+	background: #ECF8F7;
+}
+#container {
+	max-width: 960px;
+  	font-size: 0;
+}
+
+#header {
+	background: #ECF8F7;
+	margin-bottom: 15px;
+}
+h1 {
+	opacity: 0.5;
+}
+h2 {
+	opacity: 0.5;
+}
+h3 {
+	opacity: 0.5;
+}
+#randomText {
+	color: #000000;
+	opacity: 0.5;
+	font-size: 16px;
+}
+
+div div {
+	background-color: #D8D8D8;
+}
+
+#pix {
+  display: inline-block;
+  border:solid 1px #000000;
+}
+
+.colored { /* Class that gets added when 'mouseenter' */
+	background: #5D1178; 
+}
+
+button {
+	padding: 8px;
+	border-radius: 2px;
+	background: #00BDB8;
+	background: -webkit-linear-gradient(left, #00BDB8, #00A0BD);
+	background: -o-linear-gradient(left, #00BDB8, #00A0BD);
+  	background: -moz-linear-gradient(left, #00BDB8, #00A0BD);
+  	background: linear-gradient(to left, #00BDB8, #00A0BD);
+	opacity: 0.5;
+	border: none;
+}
+button:hover {
+	background: #00A0BD;
+}
+button:active {
+	background: #0B8295;
+}
+span{
+	font-weight: bold;
+	font-size: 14px;
+	color: #FFFFFF;
+}
+span:hover{
+	color: #C7C8C8;
+}
+span:active{
+	color: #FFFFFF;
+}
+
+
+
+
+
